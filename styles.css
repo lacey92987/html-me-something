@@ -1,0 +1,72 @@
+
+img {
+	max-width: 75%;
+}
+
+div {
+	text-align: center;
+	padding-top: 25px;
+	padding-right: 10px;
+	padding-bottom: 25px;
+	padding-left: 10px;
+  }
+
+##whatIsCrossfit {
+    text-align: center;
+}
+
+#crossfitHard  {
+    text-align: center;
+}
+
+#canDoCrossfit {
+    text-align: center;
+}
+
+#loveCrossfit {
+    text-align: center;
+
+footer {
+	text-align: center;
+	background-color: blue;
+	color: white;
+}
+
+p {
+	text-align: center;
+  }
+
+h1 {
+	text-align: center;
+	}
+
+.button {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+
+.head {
+	margin: 5px;
+	display: inline;
+}
+
+.content {
+	max-width: 30%;
+	text-align: center;
+	display: inline-block;
+}
+.img {
+	max-width: 30%;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+
+.img:hover {
+    max-width: 32%;
+	border: 2px solid;
+}
